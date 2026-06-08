@@ -1,0 +1,26 @@
+# robots.txt для KUKSI ROYAL
+# Разрешаем индексацию всем поисковым системам
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+Disallow: /temp
+
+# Указываем путь к sitemap
+Sitemap: https://KUKSIROYAL.COM/sitemap.xml
+
+# Для Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Для Яндекса
+User-agent: Yandexbot
+Allow: /
+Crawl-delay: 0
+
+# Для Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1

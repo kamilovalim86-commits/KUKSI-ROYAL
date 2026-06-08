@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "KUKSI ROYAL",
+  "description": "Премиальный корейский холодный суп Кук-си с традиционным рецептом",
+  "url": "https://KUKSIROYAL.COM",
+  "telephone": "+998999721389",
+  "sameAs": [
+    "https://t.me/haydarali_sambo"
+  ],
+  "image": "https://lh3.googleusercontent.com/aida/ADBb0uiUUroDZQ6vV1hThUWNMzTZYJJW0k-4sY3i7ZtdZ4pcZa7ueljMsP_JOx1EPQdf9UjTMAq0W9zhkmfh4xMIX7VJ6Od405GpLVkMvYmH-2dk1UlMj-_xNC0dxvYYoVsA9VoeQMuqokGrynPEeXgwDwquwKLhNtT6B_JtoOaq5usWCGpvkOyy2-sffrfPJ1o1r3K61VeCOMADha8X-_rLqFR9PyKLCT7yJeWVkmxea5a_S6vYr48fLFJaTJ6i",
+  "priceRange": "$$$",
+  "servesCuisine": "Korean",
+  "areaServed": {
+    "@type": "City",
+    "name": "Tashkent"
+  },
+  "menu": "https://KUKSIROYAL.COM/#menu",
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "offerCount": 1,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Кук-си",
+        "description": "Традиционный корейский холодный суп с говядиной, лапшой, овощами и яичной нитью",
+        "url": "https://KUKSIROYAL.COM/#order"
+      }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "1"
+  }
+}
